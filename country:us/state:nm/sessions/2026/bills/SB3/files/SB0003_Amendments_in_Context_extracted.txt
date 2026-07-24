@@ -1,0 +1,659 @@
+Title: 
+Official Title: 
+Source: versions - Amendments in Context
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SENATE BILL 3
+57TH LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2026
+INTRODUCED BY
+Antonio Maestas and Crystal Brantley and Pete Campos
+and Pamelya Herndon
+This document may incorporate amendments proposed by a
+committee, but not yet adopted, as well as amendments
+that have been adopted during the current legislative
+session. The document is a tool to show amendments in
+context and cannot be used for the purpose of adding
+amendments to legislation.
+AN ACT
+RELATING TO COMMITMENT PROCEDURES; PROVIDING A DEFINITION FOR
+" HJC SERIOUS HJC HARM TO SELF" AND " HJC SERIOUS HJC HARM TO
+OTHERS" IN THE MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES
+CODE AND THE ASSISTED OUTPATIENT TREATMENT ACT.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+SECTION 1. Section 43-1-3 NMSA 1978 (being Laws 1977,
+Chapter 279, Section 2, as amended) is amended to read:
+"43-1-3. DEFINITIONS.--As used in the Mental Health and
+Developmental Disabilities Code:
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+A. "aversive stimuli" means anything that, because
+it is believed to be unreasonably unpleasant, uncomfortable or
+distasteful to the client, is administered or done to the
+client for the purpose of reducing the frequency of a behavior,
+but does not include verbal therapies, physical restrictions to
+prevent imminent harm to self or others or psychotropic
+medications that are not used for purposes of punishment;
+B. "client" means a patient who is requesting or
+receiving mental health services or any person requesting or
+receiving developmental disabilities services or who is present
+in a mental health or developmental disabilities facility for
+the purpose of receiving such services or who has been placed
+in a mental health or developmental disabilities facility by
+the person's parent or guardian or by any court order;
+C. "code" means the Mental Health and Developmental
+Disabilities Code;
+D. "consistent with the least drastic means
+principle" means that the habilitation or treatment and the
+conditions of habilitation or treatment for the client,
+separately and in combination:
+(1) are no more harsh, hazardous or intrusive
+than necessary to achieve acceptable treatment objectives for
+the client;
+(2) involve no restrictions on physical
+movement and no requirement for residential care except as
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 2 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+reasonably necessary for the administration of treatment or for
+the protection of the client or others from physical injury;
+and
+(3) are conducted at the suitable available
+facility close to the client's place of residence;
+E. "convulsive treatment" means any form of mental
+health treatment that depends upon creation of a convulsion by
+any means, including electroconvulsive treatment and insulin
+coma treatment;
+F. "court" means a district court of New Mexico;
+G. "crisis triage center" means a health facility
+that:
+(1) is licensed by the health care authority;
+and
+(2) provides stabilization of behavioral
+health crises and may include residential and nonresidential
+stabilization;
+H. "department" or "division" means the behavioral
+health services division of the health care authority;
+I. "developmental or intellectual disability" means
+a severe chronic disability attributable to significantly
+subaverage general intellectual functioning existing
+concurrently with deficits in adaptive behavior, cerebral
+palsy, autism or neurological dysfunction that requires similar
+treatment or habilitation;
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 3 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+J. "evaluation facility" means a community mental
+health or developmental disability program, a crisis triage
+center or a medical facility that has psychiatric or
+developmental or intellectual disability services available,
+including the New Mexico behavioral health institute at Las
+Vegas, or, if none of those is reasonably available or
+appropriate, the office of a physician or a certified
+psychologist that is capable of performing a mental status
+examination adequate to determine the need for involuntary
+treatment;
+K. "experimental treatment" means any mental health
+or developmental disabilities treatment that presents
+significant risk of physical harm, but does not include
+accepted treatment used in competent practice of medicine and
+psychology and supported by scientifically acceptable studies;
+HJC L. "grave passive neglect" means failure to
+provide for basic personal or medical needs or for one's own
+safety to such an extent that it is more likely than not that
+serious bodily harm will result in the near future; HJC
+HJC M. HJC HJC L. HJC "habilitation" means the
+process by which professional persons and their staff assist a
+client with a developmental or an intellectual disability in
+acquiring and maintaining those skills and behaviors that
+enable the person to cope more effectively with the demands of
+the person's self and environment and to raise the level of the
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 4 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+person's physical, mental and social efficiency.
+"Habilitation" includes but is not limited to programs of
+formal, structured education and treatment;
+[N. "likelihood of serious harm to oneself" means
+that it is more likely than not that in the near future the
+person will attempt to commit suicide or will cause serious
+bodily harm to the person's self by violent or other self-
+destructive means, including grave passive neglect;
+O. "likelihood of serious harm to others" means
+that it is more likely than not that in the near future a
+person will inflict serious, unjustified bodily harm on another
+person or commit a criminal sexual offense, as evidenced by
+behavior causing, attempting or threatening such harm, which
+behavior gives rise to a reasonable fear of such harm from the
+person;]
+HJC N. HJC HJC M. HJC " HJC serious HJC harm to
+others" means that within the recent past, the person has
+inflicted or attempted to inflict serious bodily harm on
+another or has acted in such a way as to create a substantial
+risk of serious bodily harm to another and it is more likely
+than not that the conduct will be repeated in the near future;
+HJC O. HJC HJC N. HJC " HJC serious HJC harm to
+self" means that:
+(1) it is more likely than not that in the
+near future, the person will attempt to SJC commit suicide SJC
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 5 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+SJC cause self-inflicted death SJC or will
+HJC intentionally HJC cause serious bodily harm to the
+person's self SJC by violent or other self-destructive
+means SJC ; or
+(2) the person's recent behavior:
+(a) demonstrates that HJC , as a result
+of a mental disorder, HJC the person lacks the decisional
+capacity HRECEDE HJC , as determined by a qualified mental
+health professional, HJC HRECEDE to satisfy the person's need
+for nourishment, personal or medical care, shelter or self-
+protection and safety and that it is more likely than not that
+the lack of decisional capacity will result in death, serious
+bodily injury or serious physical or mental debilitation in the
+near future if treatment is not ordered; and
+(b) makes it more likely than not that
+the person will suffer serious physical debilitation in the
+near future unless adequate treatment is provided pursuant to
+the Mental Health and Developmental Disabilities Code;
+HJC P. HJC HJC O. HJC "mental disorder" means
+substantial disorder of a person's emotional processes, thought
+or cognition that grossly impairs judgment, behavior or
+capacity to recognize reality, but does not mean developmental
+or intellectual disability;
+HJC Q. HJC HJC P. HJC "mental health or
+developmental or intellectual disabilities professional" means
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 6 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+a physician or other professional who by training or experience
+is qualified to work with persons with a mental disorder or a
+developmental or intellectual disability;
+HJC R. HJC HJC Q. HJC "physician" or "certified
+psychologist", when used for the purpose of hospital admittance
+or discharge, means a physician or certified psychologist who
+has been granted admitting privileges at a hospital licensed by
+the health care authority, if such privileges are required;
+HJC S. HJC HJC R. HJC "protected health
+information" means individually identifiable health information
+transmitted by or maintained in an electronic form or any other
+form or media that relates to the:
+(1) past, present or future physical or mental
+health or condition of a person;
+(2) provision of health care to a person; or
+(3) payment for the provision of health care
+to a person;
+HJC T. HJC HJC S. HJC "psychosurgery":
+(1) means those operations currently referred
+to as lobotomy, psychiatric surgery and behavioral surgery and
+all other forms of brain surgery if the surgery is performed
+for the purpose of the following:
+(a) modification or control of thoughts,
+feelings, actions or behavior rather than the treatment of a
+known and diagnosed physical disease of the brain;
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 7 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+(b) treatment of abnormal brain function
+or normal brain tissue in order to control thoughts, feelings,
+actions or behavior; or
+(c) treatment of abnormal brain function
+or abnormal brain tissue in order to modify thoughts, feelings,
+actions or behavior when the abnormality is not an established
+cause for those thoughts, feelings, actions or behavior; and
+(2) does not include prefrontal sonic
+treatment in which there is no destruction of brain tissue;
+HJC U. HJC HJC T. HJC "qualified mental health
+professional licensed for independent practice" means an
+independent social worker, a licensed professional clinical
+mental health counselor, a marriage and family therapist, a
+certified nurse practitioner, a clinical nurse specialist with
+a specialty in mental health or a licensed art therapist, all
+of whom by training and experience are qualified to work with
+persons with a mental disorder;
+HJC V. HJC HJC U. HJC "residential treatment or
+habilitation program" means diagnosis, evaluation, care,
+treatment or habilitation rendered inside or on the premises of
+a mental health or developmental disabilities facility,
+hospital, clinic, institution or supervisory residence or
+nursing home when the client resides on the premises; and
+HJC W. HJC HJC V. HJC "treatment" means any
+effort to accomplish a significant change in the mental or
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 8 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+emotional condition or behavior of the client."
+SECTION 2. Section 43-1B-2 NMSA 1978 (being Laws 2016,
+Chapter 84, Section 2, as amended) is amended to read:
+"43-1B-2. DEFINITIONS.--As used in the Assisted
+Outpatient Treatment Act:
+A. "advance directive for mental health treatment"
+means an individual instruction or power of attorney for mental
+health treatment made pursuant to the Mental Health Care
+Treatment Decisions Act;
+B. "agent" means an individual designated in a
+power of attorney for health care to make a mental health care
+decision for the individual granting the power;
+C. "assertive community treatment" means a team
+treatment approach designed to provide comprehensive community-
+based psychiatric treatment, rehabilitation and support to
+persons with serious and persistent mental disorders;
+D. "assisted outpatient treatment" means categories
+of outpatient services ordered by a district court, including
+case management services, comprehensive community support
+services, intensive outpatient services, care coordination or
+assertive community treatment team services, prescribed to
+treat a patient's mental disorder and to assist a patient in
+living and functioning in the community or to attempt to
+prevent a relapse or deterioration that may reasonably be
+predicted to result in harm to the patient or another or the
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 9 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+need for hospitalization. Assisted outpatient treatment may
+include:
+(1) medication;
+(2) periodic blood tests or urinalysis to
+determine compliance with prescribed medications;
+(3) individual or group therapy;
+(4) day or partial-day programming activities;
+(5) educational and vocational training or
+activities;
+(6) alcohol and substance abuse treatment and
+counseling;
+(7) periodic blood tests or urinalysis for the
+presence of alcohol or illegal drugs for a patient with a
+history of alcohol or substance abuse;
+(8) supervision of living arrangements; and
+(9) any other services prescribed to treat the
+patient's mental disorder and to assist the patient in living
+and functioning in the community, or to attempt to prevent a
+deterioration of the patient's mental or physical condition;
+E. "covered entity" means a health plan, a health
+care clearinghouse or a health care provider that transmits any
+health information in electronic form;
+F. "guardian" means a judicially appointed guardian
+having authority to make mental health care decisions for an
+individual;
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 10 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+G. "least restrictive appropriate alternative"
+means treatment and conditions that:
+(1) are no more harsh, hazardous or intrusive
+than necessary to achieve acceptable treatment objectives; and
+(2) do not restrict physical movement or
+require residential care, except as reasonably necessary for
+the administration of treatment or the protection of the
+patient;
+[H. "likely to result in serious harm to others"
+means that it is more likely than not that in the near future a
+person will inflict serious, unjustified bodily harm on another
+person or commit a criminal sexual offense, as evidenced by
+behavior causing, attempting or threatening such harm, which
+behavior gives rise to a reasonable fear of such harm from the
+person;
+I. "likely to result in serious harm to self" means
+that it is more likely than not that in the near future the
+person will attempt to commit suicide or will cause serious
+bodily harm to the person's self by violent or other self-
+destructive means, including grave passive neglect;]
+H. " HJC serious HJC harm to others" means that
+within the recent past, the person has inflicted or attempted
+to inflict serious bodily harm on another or has acted in such
+a way as to create a substantial risk of serious bodily harm to
+another and it is more likely than not that the conduct will be
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 11 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+repeated in the near future;
+I. " HJC serious HJC harm to self" means that:
+(1) it is more likely than not that in the
+near future, the person will attempt to SJC commit suicide SJC
+SJC cause self-inflicted death SJC or will
+HJC intentionally HJC cause serious bodily harm to the
+person's self SJC by violent or other self-destructive
+means SJC ; or
+(2) the person's recent behavior:
+(a) demonstrates that HJC , as a result
+of a mental disorder, HJC the person lacks the decisional
+capacity HRECEDE HJC , as determined by a qualified mental
+health professional, HJC HRECEDE to satisfy the person's need
+for nourishment, personal or medical care, shelter or self-
+protection and safety and that it is more likely than not that
+the lack of decisional capacity will result in death, serious
+bodily injury or serious physical or mental debilitation in the
+near future if treatment is not ordered; and
+(b) makes it more likely than not that
+the person will suffer serious physical debilitation in the
+near future unless adequate treatment is provided pursuant to
+the Assisted Outpatient Treatment Act;
+J. "mandated service" means a service specified in
+a court order requiring assisted outpatient treatment;
+K. "participating municipality or county" means a
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 12 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+municipality or county that has entered into a memorandum of
+understanding with its respective district court with respect
+to the funding of such district court's administrative
+expenses, including legal fees, for proceedings pursuant to the
+Assisted Outpatient Treatment Act;
+L. "patient" means a person receiving assisted
+outpatient treatment pursuant to a court order;
+M. "power of attorney for health care" means the
+designation of an agent to make health care decisions for the
+individual granting the power, made while the individual has
+capacity;
+N. "provider" means an individual or organization
+licensed, certified or otherwise authorized or permitted by law
+to provide mental or physical health diagnosis or treatment in
+the ordinary course of business or practice of a profession;
+O. "qualified professional" means a physician,
+licensed psychologist, prescribing psychologist, certified
+nurse practitioner or clinical nurse specialist with a
+specialty in mental health, or a physician assistant with a
+specialty in mental health;
+P. "qualified protective order" means, with respect
+to protected health information, an order of a district court
+or stipulation of parties to a proceeding under the Assisted
+Outpatient Treatment Act;
+Q. "respondent" means a person who is the subject
+.232329.3GLGAIC February 17, 2026 (12:00 pm)
+- 13 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+thgilhgih
+,eulb
+,dlob
+=
+wen
+:stnemdnemA
+hguorhtekirts
+,thgilhgih
+,der
+,dlob
+=
+eteled
+of a petition or order for assisted outpatient treatment;
+R. "surrogate decision-maker" means:
+(1) an agent designated by the respondent;
+(2) a guardian; or
+(3) a treatment guardian; and
+S. "treatment guardian" means a person appointed
+pursuant to Section 43-1-15 NMSA 1978 to make mental health
+treatment decisions for a person who has been found by clear
+and convincing evidence to be incapable of making the person's
+own mental health treatment decisions."
+- 14 -
+.232329.3GLGAIC February 17, 2026 (12:00 pm)

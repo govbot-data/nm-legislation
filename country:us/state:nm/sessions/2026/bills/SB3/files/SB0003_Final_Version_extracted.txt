@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - Final Version
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 AN ACT
+2 RELATING TO COMMITMENT PROCEDURES; PROVIDING A DEFINITION FOR
+3 "SERIOUS HARM TO SELF" AND "SERIOUS HARM TO OTHERS" IN THE
+4 MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES CODE AND THE
+5 ASSISTED OUTPATIENT TREATMENT ACT.
+6
+7 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+8 SECTION 1. Section 43-1-3 NMSA 1978 (being Laws 1977,
+9 Chapter 279, Section 2, as amended) is amended to read:
+10 "43-1-3. DEFINITIONS.--As used in the Mental Health and
+11 Developmental Disabilities Code:
+12 A. "aversive stimuli" means anything that, because
+13 it is believed to be unreasonably unpleasant, uncomfortable
+14 or distasteful to the client, is administered or done to the
+15 client for the purpose of reducing the frequency of a
+16 behavior, but does not include verbal therapies, physical
+17 restrictions to prevent imminent harm to self or others or
+18 psychotropic medications that are not used for purposes of
+19 punishment;
+20 B. "client" means a patient who is requesting or
+21 receiving mental health services or any person requesting or
+22 receiving developmental disabilities services or who is
+23 present in a mental health or developmental disabilities
+24 facility for the purpose of receiving such services or who
+25 has been placed in a mental health or developmental SB 3
+Page 1
+
+1 disabilities facility by the person's parent or guardian or
+2 by any court order;
+3 C. "code" means the Mental Health and
+4 Developmental Disabilities Code;
+5 D. "consistent with the least drastic means
+6 principle" means that the habilitation or treatment and the
+7 conditions of habilitation or treatment for the client,
+8 separately and in combination:
+9 (1) are no more harsh, hazardous or
+10 intrusive than necessary to achieve acceptable treatment
+11 objectives for the client;
+12 (2) involve no restrictions on physical
+13 movement and no requirement for residential care except as
+14 reasonably necessary for the administration of treatment or
+15 for the protection of the client or others from physical
+16 injury; and
+17 (3) are conducted at the suitable available
+18 facility close to the client's place of residence;
+19 E. "convulsive treatment" means any form of mental
+20 health treatment that depends upon creation of a convulsion
+21 by any means, including electroconvulsive treatment and
+22 insulin coma treatment;
+23 F. "court" means a district court of New Mexico;
+24 G. "crisis triage center" means a health facility
+25 that: SB 3
+Page 2
+
+1 (1) is licensed by the health care
+2 authority; and
+3 (2) provides stabilization of behavioral
+4 health crises and may include residential and nonresidential
+5 stabilization;
+6 H. "department" or "division" means the behavioral
+7 health services division of the health care authority;
+8 I. "developmental or intellectual disability"
+9 means a severe chronic disability attributable to
+10 significantly subaverage general intellectual functioning
+11 existing concurrently with deficits in adaptive behavior,
+12 cerebral palsy, autism or neurological dysfunction that
+13 requires similar treatment or habilitation;
+14 J. "evaluation facility" means a community mental
+15 health or developmental disability program, a crisis triage
+16 center or a medical facility that has psychiatric or
+17 developmental or intellectual disability services available,
+18 including the New Mexico behavioral health institute at
+19 Las Vegas, or, if none of those is reasonably available or
+20 appropriate, the office of a physician or a certified
+21 psychologist that is capable of performing a mental status
+22 examination adequate to determine the need for involuntary
+23 treatment;
+24 K. "experimental treatment" means any mental
+25 health or developmental disabilities treatment that presents SB 3
+Page 3
+
+1 significant risk of physical harm, but does not include
+2 accepted treatment used in competent practice of medicine and
+3 psychology and supported by scientifically acceptable
+4 studies;
+5 L. "habilitation" means the process by which
+6 professional persons and their staff assist a client with a
+7 developmental or an intellectual disability in acquiring and
+8 maintaining those skills and behaviors that enable the person
+9 to cope more effectively with the demands of the person's
+10 self and environment and to raise the level of the person's
+11 physical, mental and social efficiency. "Habilitation"
+12 includes but is not limited to programs of formal, structured
+13 education and treatment;
+14 M. "serious harm to others" means that within the
+15 recent past, the person has inflicted or attempted to inflict
+16 serious bodily harm on another or has acted in such a way as
+17 to create a substantial risk of serious bodily harm to
+18 another and it is more likely than not that the conduct will
+19 be repeated in the near future;
+20 N. "serious harm to self" means that:
+21 (1) it is more likely than not that in the
+22 near future, the person will attempt to cause self-inflicted
+23 death or will intentionally cause serious bodily harm to the
+24 person's self; or
+25 (2) the person's recent behavior: SB 3
+Page 4
+
+1 (a) demonstrates that, as a result of a
+2 mental disorder, the person lacks the decisional capacity to
+3 satisfy the person's need for nourishment, personal or
+4 medical care, shelter or self-protection and safety and that
+5 it is more likely than not that the lack of decisional
+6 capacity will result in death, serious bodily injury or
+7 serious physical or mental debilitation in the near future if
+8 treatment is not ordered; and
+9 (b) makes it more likely than not that
+10 the person will suffer serious physical debilitation in the
+11 near future unless adequate treatment is provided pursuant to
+12 the Mental Health and Developmental Disabilities Code;
+13 O. "mental disorder" means substantial disorder of
+14 a person's emotional processes, thought or cognition that
+15 grossly impairs judgment, behavior or capacity to recognize
+16 reality, but does not mean developmental or intellectual
+17 disability;
+18 P. "mental health or developmental or intellectual
+19 disabilities professional" means a physician or other
+20 professional who by training or experience is qualified to
+21 work with persons with a mental disorder or a developmental
+22 or intellectual disability;
+23 Q. "physician" or "certified psychologist", when
+24 used for the purpose of hospital admittance or discharge,
+25 means a physician or certified psychologist who has been SB 3
+Page 5
+
+1 granted admitting privileges at a hospital licensed by the
+2 health care authority, if such privileges are required;
+3 R. "protected health information" means
+4 individually identifiable health information transmitted by
+5 or maintained in an electronic form or any other form or
+6 media that relates to the:
+7 (1) past, present or future physical or
+8 mental health or condition of a person;
+9 (2) provision of health care to a person; or
+10 (3) payment for the provision of health care
+11 to a person;
+12 S. "psychosurgery":
+13 (1) means those operations currently
+14 referred to as lobotomy, psychiatric surgery and behavioral
+15 surgery and all other forms of brain surgery if the surgery
+16 is performed for the purpose of the following:
+17 (a) modification or control of
+18 thoughts, feelings, actions or behavior rather than the
+19 treatment of a known and diagnosed physical disease of the
+20 brain;
+21 (b) treatment of abnormal brain
+22 function or normal brain tissue in order to control thoughts,
+23 feelings, actions or behavior; or
+24 (c) treatment of abnormal brain
+25 function or abnormal brain tissue in order to modify SB 3
+Page 6
+
+1 thoughts, feelings, actions or behavior when the abnormality
+2 is not an established cause for those thoughts, feelings,
+3 actions or behavior; and
+4 (2) does not include prefrontal sonic
+5 treatment in which there is no destruction of brain tissue;
+6 T. "qualified mental health professional licensed
+7 for independent practice" means an independent social worker,
+8 a licensed professional clinical mental health counselor, a
+9 marriage and family therapist, a certified nurse
+10 practitioner, a clinical nurse specialist with a specialty in
+11 mental health or a licensed art therapist, all of whom by
+12 training and experience are qualified to work with persons
+13 with a mental disorder;
+14 U. "residential treatment or habilitation program"
+15 means diagnosis, evaluation, care, treatment or habilitation
+16 rendered inside or on the premises of a mental health or
+17 developmental disabilities facility, hospital, clinic,
+18 institution or supervisory residence or nursing home when the
+19 client resides on the premises; and
+20 V. "treatment" means any effort to accomplish a
+21 significant change in the mental or emotional condition or
+22 behavior of the client."
+23 SECTION 2. Section 43-1B-2 NMSA 1978 (being Laws 2016,
+24 Chapter 84, Section 2, as amended) is amended to read:
+25 "43-1B-2. DEFINITIONS.--As used in the Assisted SB 3
+Page 7
+
+1 Outpatient Treatment Act:
+2 A. "advance directive for mental health treatment"
+3 means an individual instruction or power of attorney for
+4 mental health treatment made pursuant to the Mental Health
+5 Care Treatment Decisions Act;
+6 B. "agent" means an individual designated in a
+7 power of attorney for health care to make a mental health
+8 care decision for the individual granting the power;
+9 C. "assertive community treatment" means a team
+10 treatment approach designed to provide comprehensive
+11 community-based psychiatric treatment, rehabilitation and
+12 support to persons with serious and persistent mental
+13 disorders;
+14 D. "assisted outpatient treatment" means
+15 categories of outpatient services ordered by a district
+16 court, including case management services, comprehensive
+17 community support services, intensive outpatient services,
+18 care coordination or assertive community treatment team
+19 services, prescribed to treat a patient's mental disorder and
+20 to assist a patient in living and functioning in the
+21 community or to attempt to prevent a relapse or deterioration
+22 that may reasonably be predicted to result in harm to the
+23 patient or another or the need for hospitalization. Assisted
+24 outpatient treatment may include:
+25 (1) medication; SB 3
+Page 8
+
+1 (2) periodic blood tests or urinalysis to
+2 determine compliance with prescribed medications;
+3 (3) individual or group therapy;
+4 (4) day or partial-day programming
+5 activities;
+6 (5) educational and vocational training or
+7 activities;
+8 (6) alcohol and substance abuse treatment
+9 and counseling;
+10 (7) periodic blood tests or urinalysis for
+11 the presence of alcohol or illegal drugs for a patient with a
+12 history of alcohol or substance abuse;
+13 (8) supervision of living arrangements; and
+14 (9) any other services prescribed to treat
+15 the patient's mental disorder and to assist the patient in
+16 living and functioning in the community, or to attempt to
+17 prevent a deterioration of the patient's mental or physical
+18 condition;
+19 E. "covered entity" means a health plan, a health
+20 care clearinghouse or a health care provider that transmits
+21 any health information in electronic form;
+22 F. "guardian" means a judicially appointed
+23 guardian having authority to make mental health care
+24 decisions for an individual;
+25 G. "least restrictive appropriate alternative" SB 3
+Page 9
+
+1 means treatment and conditions that:
+2 (1) are no more harsh, hazardous or
+3 intrusive than necessary to achieve acceptable treatment
+4 objectives; and
+5 (2) do not restrict physical movement or
+6 require residential care, except as reasonably necessary for
+7 the administration of treatment or the protection of the
+8 patient;
+9 H. "serious harm to others" means that within the
+10 recent past, the person has inflicted or attempted to inflict
+11 serious bodily harm on another or has acted in such a way as
+12 to create a substantial risk of serious bodily harm to
+13 another and it is more likely than not that the conduct will
+14 be repeated in the near future;
+15 I. "serious harm to self" means that:
+16 (1) it is more likely than not that in the
+17 near future, the person will attempt to cause self-inflicted
+18 death or will intentionally cause serious bodily harm to the
+19 person's self; or
+20 (2) the person's recent behavior:
+21 (a) demonstrates that, as a result of a
+22 mental disorder, the person lacks the decisional capacity to
+23 satisfy the person's need for nourishment, personal or
+24 medical care, shelter or self-protection and safety and that
+25 it is more likely than not that the lack of decisional SB 3
+Page 10
+
+1 capacity will result in death, serious bodily injury or
+2 serious physical or mental debilitation in the near future if
+3 treatment is not ordered; and
+4 (b) makes it more likely than not that
+5 the person will suffer serious physical debilitation in the
+6 near future unless adequate treatment is provided pursuant to
+7 the Assisted Outpatient Treatment Act;
+8 J. "mandated service" means a service specified in
+9 a court order requiring assisted outpatient treatment;
+10 K. "participating municipality or county" means a
+11 municipality or county that has entered into a memorandum of
+12 understanding with its respective district court with respect
+13 to the funding of such district court's administrative
+14 expenses, including legal fees, for proceedings pursuant to
+15 the Assisted Outpatient Treatment Act;
+16 L. "patient" means a person receiving assisted
+17 outpatient treatment pursuant to a court order;
+18 M. "power of attorney for health care" means the
+19 designation of an agent to make health care decisions for the
+20 individual granting the power, made while the individual has
+21 capacity;
+22 N. "provider" means an individual or organization
+23 licensed, certified or otherwise authorized or permitted by
+24 law to provide mental or physical health diagnosis or
+25 treatment in the ordinary course of business or practice of a SB 3
+Page 11
+
+1 profession;
+2 O. "qualified professional" means a physician,
+3 licensed psychologist, prescribing psychologist, certified
+4 nurse practitioner or clinical nurse specialist with a
+5 specialty in mental health, or a physician assistant with a
+6 specialty in mental health;
+7 P. "qualified protective order" means, with
+8 respect to protected health information, an order of a
+9 district court or stipulation of parties to a proceeding
+10 under the Assisted Outpatient Treatment Act;
+11 Q. "respondent" means a person who is the subject
+12 of a petition or order for assisted outpatient treatment;
+13 R. "surrogate decision-maker" means:
+14 (1) an agent designated by the respondent;
+15 (2) a guardian; or
+16 (3) a treatment guardian; and
+17 S. "treatment guardian" means a person appointed
+18 pursuant to Section 43-1-15 NMSA 1978 to make mental health
+19 treatment decisions for a person who has been found by clear
+20 and convincing evidence to be incapable of making the person's
+21 own mental health treatment decisions." SB 3
+Page 12
+22
+23
+24
+25
