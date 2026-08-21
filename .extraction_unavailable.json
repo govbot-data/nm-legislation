@@ -1,0 +1,1122 @@
+[
+  {
+    "bill_id": "SJR3",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SJR3/metadata.json"
+  },
+  {
+    "bill_id": "SB165",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB165/metadata.json"
+  },
+  {
+    "bill_id": "SB81",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB81/metadata.json"
+  },
+  {
+    "bill_id": "SM31",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SM31/metadata.json"
+  },
+  {
+    "bill_id": "HB240",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB240/metadata.json"
+  },
+  {
+    "bill_id": "SB290",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB290/metadata.json"
+  },
+  {
+    "bill_id": "HM37",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM37/metadata.json"
+  },
+  {
+    "bill_id": "SB280",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB280/metadata.json"
+  },
+  {
+    "bill_id": "HB59",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB59/metadata.json"
+  },
+  {
+    "bill_id": "HM3",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM3/metadata.json"
+  },
+  {
+    "bill_id": "SB276",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB276/metadata.json"
+  },
+  {
+    "bill_id": "HB170",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB170/metadata.json"
+  },
+  {
+    "bill_id": "SB123",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB123/metadata.json"
+  },
+  {
+    "bill_id": "HB243",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB243/metadata.json"
+  },
+  {
+    "bill_id": "SB279",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB279/metadata.json"
+  },
+  {
+    "bill_id": "HB278",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB278/metadata.json"
+  },
+  {
+    "bill_id": "SB150",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB150/metadata.json"
+  },
+  {
+    "bill_id": "HB95",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB95/metadata.json"
+  },
+  {
+    "bill_id": "HB69",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB69/metadata.json"
+  },
+  {
+    "bill_id": "HB377",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB377/metadata.json"
+  },
+  {
+    "bill_id": "HM24",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM24/metadata.json"
+  },
+  {
+    "bill_id": "SB84",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB84/metadata.json"
+  },
+  {
+    "bill_id": "HB56",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB56/metadata.json"
+  },
+  {
+    "bill_id": "SB147",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB147/metadata.json"
+  },
+  {
+    "bill_id": "SB287",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB287/metadata.json"
+  },
+  {
+    "bill_id": "HB49",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB49/metadata.json"
+  },
+  {
+    "bill_id": "HB100",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB100/metadata.json"
+  },
+  {
+    "bill_id": "SB140",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB140/metadata.json"
+  },
+  {
+    "bill_id": "HB256",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB256/metadata.json"
+  },
+  {
+    "bill_id": "HB72",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB72/metadata.json"
+  },
+  {
+    "bill_id": "SB125",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB125/metadata.json"
+  },
+  {
+    "bill_id": "HB120",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB120/metadata.json"
+  },
+  {
+    "bill_id": "SB251",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB251/metadata.json"
+  },
+  {
+    "bill_id": "SM26",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SM26/metadata.json"
+  },
+  {
+    "bill_id": "HB284",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB284/metadata.json"
+  },
+  {
+    "bill_id": "HB369",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB369/metadata.json"
+  },
+  {
+    "bill_id": "HB159",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB159/metadata.json"
+  },
+  {
+    "bill_id": "HB130",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB130/metadata.json"
+  },
+  {
+    "bill_id": "HB202",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB202/metadata.json"
+  },
+  {
+    "bill_id": "SB194",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB194/metadata.json"
+  },
+  {
+    "bill_id": "HM7",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM7/metadata.json"
+  },
+  {
+    "bill_id": "HB274",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB274/metadata.json"
+  },
+  {
+    "bill_id": "HM12",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM12/metadata.json"
+  },
+  {
+    "bill_id": "HB283",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB283/metadata.json"
+  },
+  {
+    "bill_id": "SB45",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB45/metadata.json"
+  },
+  {
+    "bill_id": "HB51",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB51/metadata.json"
+  },
+  {
+    "bill_id": "HB143",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB143/metadata.json"
+  },
+  {
+    "bill_id": "HB287",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB287/metadata.json"
+  },
+  {
+    "bill_id": "SB12",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB12/metadata.json"
+  },
+  {
+    "bill_id": "HB19",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB19/metadata.json"
+  },
+  {
+    "bill_id": "HB263",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB263/metadata.json"
+  },
+  {
+    "bill_id": "SB136",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB136/metadata.json"
+  },
+  {
+    "bill_id": "SB283",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB283/metadata.json"
+  },
+  {
+    "bill_id": "HB310",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB310/metadata.json"
+  },
+  {
+    "bill_id": "SM32",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SM32/metadata.json"
+  },
+  {
+    "bill_id": "HB42",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB42/metadata.json"
+  },
+  {
+    "bill_id": "HB186",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB186/metadata.json"
+  },
+  {
+    "bill_id": "SB107",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB107/metadata.json"
+  },
+  {
+    "bill_id": "HB315",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB315/metadata.json"
+  },
+  {
+    "bill_id": "SB87",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB87/metadata.json"
+  },
+  {
+    "bill_id": "SB249",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB249/metadata.json"
+  },
+  {
+    "bill_id": "SB74",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB74/metadata.json"
+  },
+  {
+    "bill_id": "HB102",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB102/metadata.json"
+  },
+  {
+    "bill_id": "SB143",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB143/metadata.json"
+  },
+  {
+    "bill_id": "SB244",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB244/metadata.json"
+  },
+  {
+    "bill_id": "HB126",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB126/metadata.json"
+  },
+  {
+    "bill_id": "SB95",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB95/metadata.json"
+  },
+  {
+    "bill_id": "SB265",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB265/metadata.json"
+  },
+  {
+    "bill_id": "SB19",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB19/metadata.json"
+  },
+  {
+    "bill_id": "HB86",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB86/metadata.json"
+  },
+  {
+    "bill_id": "HB129",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB129/metadata.json"
+  },
+  {
+    "bill_id": "HB232",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB232/metadata.json"
+  },
+  {
+    "bill_id": "SB257",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB257/metadata.json"
+  },
+  {
+    "bill_id": "HM30",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM30/metadata.json"
+  },
+  {
+    "bill_id": "SB58",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB58/metadata.json"
+  },
+  {
+    "bill_id": "HB347",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB347/metadata.json"
+  },
+  {
+    "bill_id": "HM59",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM59/metadata.json"
+  },
+  {
+    "bill_id": "SJM3",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SJM3/metadata.json"
+  },
+  {
+    "bill_id": "HB289",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB289/metadata.json"
+  },
+  {
+    "bill_id": "SB78",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB78/metadata.json"
+  },
+  {
+    "bill_id": "HB354",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB354/metadata.json"
+  },
+  {
+    "bill_id": "HB118",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB118/metadata.json"
+  },
+  {
+    "bill_id": "HM61",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM61/metadata.json"
+  },
+  {
+    "bill_id": "SM28",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SM28/metadata.json"
+  },
+  {
+    "bill_id": "HB141",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB141/metadata.json"
+  },
+  {
+    "bill_id": "HB327",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB327/metadata.json"
+  },
+  {
+    "bill_id": "HB224",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB224/metadata.json"
+  },
+  {
+    "bill_id": "HB43",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB43/metadata.json"
+  },
+  {
+    "bill_id": "SB254",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB254/metadata.json"
+  },
+  {
+    "bill_id": "HM2",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM2/metadata.json"
+  },
+  {
+    "bill_id": "SB169",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB169/metadata.json"
+  },
+  {
+    "bill_id": "SJR5",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SJR5/metadata.json"
+  },
+  {
+    "bill_id": "HB358",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB358/metadata.json"
+  },
+  {
+    "bill_id": "SB292",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB292/metadata.json"
+  },
+  {
+    "bill_id": "SB239",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB239/metadata.json"
+  },
+  {
+    "bill_id": "HJR11",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HJR11/metadata.json"
+  },
+  {
+    "bill_id": "SB269",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB269/metadata.json"
+  },
+  {
+    "bill_id": "HB107",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB107/metadata.json"
+  },
+  {
+    "bill_id": "SB94",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB94/metadata.json"
+  },
+  {
+    "bill_id": "HB267",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB267/metadata.json"
+  },
+  {
+    "bill_id": "SB308",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB308/metadata.json"
+  },
+  {
+    "bill_id": "HB366",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB366/metadata.json"
+  },
+  {
+    "bill_id": "HB316",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB316/metadata.json"
+  },
+  {
+    "bill_id": "SB281",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB281/metadata.json"
+  },
+  {
+    "bill_id": "HB285",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB285/metadata.json"
+  },
+  {
+    "bill_id": "SB294",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB294/metadata.json"
+  },
+  {
+    "bill_id": "HB217",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB217/metadata.json"
+  },
+  {
+    "bill_id": "HB78",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB78/metadata.json"
+  },
+  {
+    "bill_id": "HB302",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB302/metadata.json"
+  },
+  {
+    "bill_id": "SB166",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB166/metadata.json"
+  },
+  {
+    "bill_id": "SB115",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB115/metadata.json"
+  },
+  {
+    "bill_id": "HM55",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM55/metadata.json"
+  },
+  {
+    "bill_id": "HB85",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB85/metadata.json"
+  },
+  {
+    "bill_id": "SB59",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB59/metadata.json"
+  },
+  {
+    "bill_id": "HB345",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB345/metadata.json"
+  },
+  {
+    "bill_id": "SB291",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB291/metadata.json"
+  },
+  {
+    "bill_id": "HB233",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB233/metadata.json"
+  },
+  {
+    "bill_id": "HB262",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB262/metadata.json"
+  },
+  {
+    "bill_id": "SB208",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB208/metadata.json"
+  },
+  {
+    "bill_id": "SB82",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB82/metadata.json"
+  },
+  {
+    "bill_id": "SB13",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB13/metadata.json"
+  },
+  {
+    "bill_id": "HB268",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB268/metadata.json"
+  },
+  {
+    "bill_id": "HB299",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB299/metadata.json"
+  },
+  {
+    "bill_id": "HB18",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB18/metadata.json"
+  },
+  {
+    "bill_id": "SB237",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB237/metadata.json"
+  },
+  {
+    "bill_id": "SM25",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SM25/metadata.json"
+  },
+  {
+    "bill_id": "SB168",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB168/metadata.json"
+  },
+  {
+    "bill_id": "SB259",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB259/metadata.json"
+  },
+  {
+    "bill_id": "SB69",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB69/metadata.json"
+  },
+  {
+    "bill_id": "SJR6",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SJR6/metadata.json"
+  },
+  {
+    "bill_id": "SB247",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB247/metadata.json"
+  },
+  {
+    "bill_id": "HB50",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB50/metadata.json"
+  },
+  {
+    "bill_id": "SB206",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB206/metadata.json"
+  },
+  {
+    "bill_id": "HB204",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB204/metadata.json"
+  },
+  {
+    "bill_id": "SM4",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SM4/metadata.json"
+  },
+  {
+    "bill_id": "HB319",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB319/metadata.json"
+  },
+  {
+    "bill_id": "HB251",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB251/metadata.json"
+  },
+  {
+    "bill_id": "HM57",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM57/metadata.json"
+  },
+  {
+    "bill_id": "HB138",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB138/metadata.json"
+  },
+  {
+    "bill_id": "HB62",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB62/metadata.json"
+  },
+  {
+    "bill_id": "HB281",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB281/metadata.json"
+  },
+  {
+    "bill_id": "SB297",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB297/metadata.json"
+  },
+  {
+    "bill_id": "HB360",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB360/metadata.json"
+  },
+  {
+    "bill_id": "HB193",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB193/metadata.json"
+  },
+  {
+    "bill_id": "SB226",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB226/metadata.json"
+  },
+  {
+    "bill_id": "HB356",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB356/metadata.json"
+  },
+  {
+    "bill_id": "HB38",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB38/metadata.json"
+  },
+  {
+    "bill_id": "HB161",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB161/metadata.json"
+  },
+  {
+    "bill_id": "HB246",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB246/metadata.json"
+  },
+  {
+    "bill_id": "SB37",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB37/metadata.json"
+  },
+  {
+    "bill_id": "HB361",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB361/metadata.json"
+  },
+  {
+    "bill_id": "SB135",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB135/metadata.json"
+  },
+  {
+    "bill_id": "HB214",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB214/metadata.json"
+  },
+  {
+    "bill_id": "HB154",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB154/metadata.json"
+  },
+  {
+    "bill_id": "HB254",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB254/metadata.json"
+  },
+  {
+    "bill_id": "SB238",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB238/metadata.json"
+  },
+  {
+    "bill_id": "HB216",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB216/metadata.json"
+  },
+  {
+    "bill_id": "HJR5",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HJR5/metadata.json"
+  },
+  {
+    "bill_id": "HB329",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB329/metadata.json"
+  },
+  {
+    "bill_id": "SB196",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB196/metadata.json"
+  },
+  {
+    "bill_id": "HB90",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB90/metadata.json"
+  },
+  {
+    "bill_id": "HB166",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB166/metadata.json"
+  },
+  {
+    "bill_id": "SB18",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB18/metadata.json"
+  },
+  {
+    "bill_id": "SB51",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB51/metadata.json"
+  },
+  {
+    "bill_id": "HB58",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB58/metadata.json"
+  },
+  {
+    "bill_id": "HM22",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM22/metadata.json"
+  },
+  {
+    "bill_id": "HB248",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB248/metadata.json"
+  },
+  {
+    "bill_id": "HB98",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB98/metadata.json"
+  },
+  {
+    "bill_id": "HB13",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB13/metadata.json"
+  },
+  {
+    "bill_id": "HM49",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM49/metadata.json"
+  },
+  {
+    "bill_id": "HJM3",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HJM3/metadata.json"
+  },
+  {
+    "bill_id": "HB323",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB323/metadata.json"
+  },
+  {
+    "bill_id": "SB183",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB183/metadata.json"
+  },
+  {
+    "bill_id": "SB155",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB155/metadata.json"
+  },
+  {
+    "bill_id": "HB76",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB76/metadata.json"
+  },
+  {
+    "bill_id": "HJM2",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HJM2/metadata.json"
+  },
+  {
+    "bill_id": "HB252",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB252/metadata.json"
+  },
+  {
+    "bill_id": "HM8",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM8/metadata.json"
+  },
+  {
+    "bill_id": "SB300",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB300/metadata.json"
+  },
+  {
+    "bill_id": "SB86",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB86/metadata.json"
+  },
+  {
+    "bill_id": "HB207",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB207/metadata.json"
+  },
+  {
+    "bill_id": "HB147",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB147/metadata.json"
+  },
+  {
+    "bill_id": "SB152",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB152/metadata.json"
+  },
+  {
+    "bill_id": "SB167",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB167/metadata.json"
+  },
+  {
+    "bill_id": "HM10",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM10/metadata.json"
+  },
+  {
+    "bill_id": "HB185",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB185/metadata.json"
+  },
+  {
+    "bill_id": "HB144",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB144/metadata.json"
+  },
+  {
+    "bill_id": "SB40",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB40/metadata.json"
+  },
+  {
+    "bill_id": "SB285",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB285/metadata.json"
+  },
+  {
+    "bill_id": "HB136",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB136/metadata.json"
+  },
+  {
+    "bill_id": "HB26",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB26/metadata.json"
+  },
+  {
+    "bill_id": "SB2",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB2/metadata.json"
+  },
+  {
+    "bill_id": "HB119",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB119/metadata.json"
+  },
+  {
+    "bill_id": "SB144",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB144/metadata.json"
+  },
+  {
+    "bill_id": "SB178",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB178/metadata.json"
+  },
+  {
+    "bill_id": "SB159",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB159/metadata.json"
+  },
+  {
+    "bill_id": "HB286",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB286/metadata.json"
+  },
+  {
+    "bill_id": "SB108",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB108/metadata.json"
+  },
+  {
+    "bill_id": "SB77",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB77/metadata.json"
+  },
+  {
+    "bill_id": "SB274",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB274/metadata.json"
+  },
+  {
+    "bill_id": "HM21",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM21/metadata.json"
+  },
+  {
+    "bill_id": "HM32",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM32/metadata.json"
+  },
+  {
+    "bill_id": "SJM1",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SJM1/metadata.json"
+  },
+  {
+    "bill_id": "HB242",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB242/metadata.json"
+  },
+  {
+    "bill_id": "HB16",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB16/metadata.json"
+  },
+  {
+    "bill_id": "HM16",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM16/metadata.json"
+  },
+  {
+    "bill_id": "HB270",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB270/metadata.json"
+  },
+  {
+    "bill_id": "HB174",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB174/metadata.json"
+  },
+  {
+    "bill_id": "HJR1",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HJR1/metadata.json"
+  },
+  {
+    "bill_id": "HM50",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HM50/metadata.json"
+  },
+  {
+    "bill_id": "HB266",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB266/metadata.json"
+  },
+  {
+    "bill_id": "SB83",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB83/metadata.json"
+  },
+  {
+    "bill_id": "HB247",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB247/metadata.json"
+  },
+  {
+    "bill_id": "SB93",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB93/metadata.json"
+  },
+  {
+    "bill_id": "HB80",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB80/metadata.json"
+  },
+  {
+    "bill_id": "SB222",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB222/metadata.json"
+  },
+  {
+    "bill_id": "SB31",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB31/metadata.json"
+  },
+  {
+    "bill_id": "HB308",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB308/metadata.json"
+  },
+  {
+    "bill_id": "SB312",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB312/metadata.json"
+  },
+  {
+    "bill_id": "HB269",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB269/metadata.json"
+  },
+  {
+    "bill_id": "HB225",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB225/metadata.json"
+  },
+  {
+    "bill_id": "SB57",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB57/metadata.json"
+  },
+  {
+    "bill_id": "HB124",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/HB124/metadata.json"
+  },
+  {
+    "bill_id": "SB195",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/nm-legislation/nm-legislation/country:us/state:nm/sessions/2026/bills/SB195/metadata.json"
+  }
+]

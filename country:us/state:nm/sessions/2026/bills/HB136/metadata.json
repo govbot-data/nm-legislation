@@ -99,6 +99,10 @@
     "division_id": "ocd-division/country:us/state:nm"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:55Z"
+    "logs_latest_update": "2026-07-21T18:55:55Z",
+    "text_extraction_unavailable": {
+      "reason": "download_failed",
+      "checked_at": "2026-08-21T14:23:37.148915Z"
+    }
   }
 }
