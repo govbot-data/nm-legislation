@@ -1,0 +1,1272 @@
+Title: 
+Official Title: 
+Source: versions - PP substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+Proposed
+SENATE ____________
+COMMITTEE SUBSTITUTE FOR
+1 SENATE BILL 283
+2 57TH LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2026
+3
+4
+5
+6 DISCUSSION DRAFT
+7
+8
+9
+10 AN ACT
+11 RELATING TO THE PUBLIC PEACE, HEALTH, SAFETY AND WELFARE;
+12 EXPANDING THE METROPOLITAN REDEVELOPMENT CODE TO INCLUDE
+13 HOUSING SHORTAGE AREAS; EXPANDING THE SCOPE OF METROPOLITAN
+14 REDEVELOPMENT PROJECTS; EXEMPTING A QUALIFYING MULTIFAMILY
+15 PROPERTY IN A HOUSING SHORTAGE AREA FROM PROPERTY TAXATION FOR
+16 UP TO TWENTY YEARS PURSUANT TO THE METROPOLITAN REDEVELOPMENT
+17 CODE.
+18
+19 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+20 SECTION 1. Section 3-60A-2 NMSA 1978 (being Laws 1979,
+21 Chapter 391, Section 2, as amended) is amended to read:
+22 "3-60A-2. FINDINGS AND DECLARATIONS OF NECESSITY.--
+23 A. It is found and declared that there exist in the
+24 state slum areas, [and] blighted areas and housing shortage
+25 areas that constitute a serious and growing menace, injurious
+.233996.1
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 to the public health, safety, morals and welfare of the
+2 residents of the state; that the existence of these areas
+3 contributes substantially to the spread of disease and crime,
+4 constitutes an economic and social burden, substantially
+5 impairs or arrests the sound and orderly development of many
+6 areas of the state and retards the maintenance and expansion of
+7 necessary housing accommodations; that economic and commercial
+8 activities are lessened in those areas by the slum or blighted
+9 conditions, and the effects of these conditions include less
+10 employment in the area, lower property values, less gross
+11 receipts tax revenue and reduced use of buildings, residential
+12 dwellings and other facilities in the area; that the prevention
+13 and elimination of slum areas and blighted areas, the
+14 construction of affordable housing accommodations and the
+15 prevention and elimination of conditions that impair sound and
+16 orderly development [is] are a matter of state policy and
+17 concern in order that the state shall not continue to be
+18 endangered by these areas that contribute little to the tax
+19 income of the state and its local governments and that consume
+20 an excessive proportion of its revenues because of the extra
+21 services required for police, fire, accident, hospitalization
+22 or other forms of public protection, services and facilities.
+23 B. Certain slum areas, [and] blighted areas and
+housing shortage areas, or portions thereof, may require land
+24
+acquisition and clearance by local government, since prevailing
+25
+.233996.1
+- 2 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 conditions may make impracticable their reclamation or
+2 development; other areas or portions of the slum or blighted
+3 area may be suitable for conservation or rehabilitation efforts
+4 and the conditions and evils enumerated in Subsection A of this
+5 section may be eliminated, remedied or prevented by those
+6 efforts; and to the extent feasible:
+7 (1) salvageable slum and blighted areas should
+8 be conserved and rehabilitated through voluntary action and the
+9 regulatory process and, when necessary, by government
+10 assistance; and
+11 (2) additional multifamily housing should be
+12 developed through voluntary action and the regulatory process
+13 and, when necessary, by government assistance.
+14 C. The powers conferred by the Metropolitan
+15 Redevelopment Code regarding the use of public money are for
+16 public uses or purposes for which public money may be expended.
+17 The individual benefits accruing to persons as the result of
+18 the powers conferred by the Metropolitan Redevelopment Code and
+19 projects conducted in accordance with its provisions are found
+20 and declared to be incidental to the objectives of that code
+and are far outweighed by the benefit to the public as a whole.
+21
+Activities authorized and powers granted by the Metropolitan 22
+Redevelopment Code are hereby declared not to result in a
+23
+donation or aid to any person, association or public or private
+24
+organization or enterprise. The necessity for these provisions
+25
+.233996.1
+- 3 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 and the power is declared to be in the public interest as a
+2 matter of legislative determination."
+3 SECTION 2. Section 3-60A-4 NMSA 1978 (being Laws 1979,
+4 Chapter 391, Section 4, as amended) is amended to read:
+5 "3-60A-4. DEFINITIONS.--As used in the Metropolitan
+6 Redevelopment Code:
+7 A. "public body" means a local government, board,
+8 commission, authority, district or other political subdivision
+9 or public body of the state;
+10 B. "local government" means an incorporated city,
+11 town or village, whether incorporated under general act,
+12 special act or special charter, or a county or, when the
+13 context requires, the governing body of an incorporated city,
+14 town or village or a county;
+15 C. "clerk" means the clerk or other official of a
+16 local government who is the chief custodian of the official
+17 records of the local government;
+18 D. "federal government" means the United States of
+19 America or an agency or instrumentality, corporate or
+20 otherwise, of the United States;
+21 E. "slum area" means an area within the area of
+22 operation in which there are numerous residential or
+23 nonresidential buildings, improvements and structures that are
+24 dilapidated, deteriorated, aged or obsolete or that have
+inadequate provision for ventilation, light, air or sanitation
+25
+.233996.1
+- 4 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 or the area lacks open spaces or has a high density of
+2 population or overcrowding or there exist in the area
+3 conditions that endanger life or property by fire or other
+4 causes, and the area is conducive to ill health, transmission
+5 of disease, infant mortality, juvenile delinquency or crime and
+6 is detrimental to the public health, safety, morals or welfare;
+7 F. "blighted area" means an area within the area of
+8 operation other than a slum area that substantially impairs or
+9 arrests the sound growth and economic health and well-being
+10 within the jurisdiction of a local government or a locale
+11 within the jurisdiction of a local government because of the
+12 presence of a substantial number of deteriorated or
+13 deteriorating structures; a predominance of defective or
+14 inadequate street layout; faulty lot layout in relation to
+15 size, adequacy, accessibility or usefulness; unsanitary or
+16 unsafe conditions; deterioration of site or other improvements;
+17 diversity of ownership; tax or special assessment delinquency
+18 exceeding the fair value of the land; defective or unusual
+19 conditions of title; improper subdivision; lack of adequate
+20 housing facilities in the area; or obsolete or impractical
+planning and platting or an area where a significant number of
+21
+commercial or mercantile businesses have closed or 22
+significantly reduced their operations due to the economic
+23
+losses or loss of profit due to operating in the area, low
+24
+levels of commercial or industrial activity or redevelopment or
+25
+.233996.1
+- 5 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 any combination of such factors; or an area that retards the
+2 provisions of housing accommodations or constitutes an economic
+3 or social burden and is a menace to the public health, safety,
+4 morals or welfare in its present condition and use;
+5 G. "housing shortage area" means an area within the
+6 jurisdiction of a local government that is experiencing:
+7 (1) a shortage of housing that is affordable
+8 to households earning at or below the area median income;
+9 (2) rising housing costs that outpace wage
+10 growth;
+11 (3) low vacancy rates;
+12 (4) excessive housing costs;
+13 (5) an inadequate supply of multifamily or
+14 workforce housing; or
+15 (6) any combination of factors delineated in
+16 Paragraphs (1) through (5) of this subsection;
+17 [G.] H. "metropolitan redevelopment project" or
+18 "project" means an activity, undertaking or series of
+19 activities or undertakings designed to:
+20 (1) eliminate slums or blighted areas in areas
+21 designated as metropolitan redevelopment areas and the activity
+22 or undertaking conforms to an approved plan for the area for
+23 slum clearance and redevelopment, rehabilitation and
+conservation; or
+24
+(2) provide for qualifying multifamily units
+25
+.233996.1
+- 6 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 in a housing shortage area designated as a metropolitan
+2 redevelopment area;
+3 [H.] I. "slum clearance and redevelopment" means
+4 the use of those powers authorized by the Metropolitan
+5 Redevelopment Code to eliminate slum areas and undertake
+6 activities authorized by the Metropolitan Redevelopment Code to
+7 rejuvenate or revitalize those areas so that the conditions
+8 that caused those areas to be designated slum areas are
+9 eliminated;
+10 [I.] J. "rehabilitation" or "conservation" means
+11 the restoration and renewal of a slum, [or] blighted area or
+12 housing shortage area or portion thereof in accordance with an
+13 approved plan by use of powers granted by the Metropolitan
+14 Redevelopment Code;
+15 [J.] K. "metropolitan redevelopment area" means a
+16 slum area, [or] a blighted area or a housing shortage area, or
+17 a combination thereof, that the local government so finds and
+18 declares and designates as appropriate for a metropolitan
+19 redevelopment project, including a project for the development
+20 of qualifying multifamily properties and qualifying multifamily
+units;
+21
+[K.] L. "metropolitan redevelopment plan" means a 22
+plan [as it exists from time to time] for one or more
+23
+metropolitan redevelopment areas or for a metropolitan
+24
+redevelopment project, which plan shall:
+25
+.233996.1
+- 7 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 (1) seek to eliminate the problems created by
+2 a slum area, [or] a blighted area or a housing shortage area;
+3 (2) conform to the general plan for the local
+4 government as a whole; and
+5 (3) be sufficient to indicate the proposed
+6 activities to be carried out in the area, including any
+7 proposals for land acquisition; proposals for demolition and
+8 removal of structures; redevelopment; proposals for
+9 improvements, rehabilitation and conservation; zoning and
+10 planning changes; land uses, maximum densities, building
+11 restrictions and requirements; and the plan's relationship to
+12 definite local objectives respecting land uses, improved
+13 traffic patterns and controls, public transportation, public
+14 utilities, recreational and community facilities, housing
+15 facilities, commercial activities or enterprises, industrial or
+16 manufacturing use and other public improvements;
+17 [L.] M. "real property" includes all lands,
+18 including improvements and fixtures thereon, and property of
+19 any nature appurtenant thereto or used in connection therewith
+20 and every estate, interest, right and use, legal or equitable,
+21 therein, including terms for years and liens by way of
+22 judgment, mortgage or otherwise;
+23 [M.] N. "bonds" means any bonds, including
+refunding bonds, notes, interim certificates, certification of
+24
+indebtedness, debentures, metropolitan redevelopment bonds or
+25
+.233996.1
+- 8 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 other securities evidencing an obligation and issued under the
+2 provisions of the Metropolitan Redevelopment Code or other
+3 obligations;
+4 [N.] O. "obligee" includes a bondholder, agent or
+5 trustee for a bondholder or lessor demising to the local
+6 government property used in connection with a metropolitan
+7 redevelopment project or any assignee or assignees of such
+8 lessor's interest or any part thereof;
+9 [O.] P. "person" means an individual, firm,
+10 partnership, corporation, company, association, joint stock
+11 association or body politic or the state or any political
+12 subdivision thereof and shall further include any trustee,
+13 receiver, assignee or other person acting in a similar
+14 representative capacity;
+15 [P.] Q. "area of operation" means an area within a
+16 local government's jurisdiction, except that it shall not
+17 include an area that lies within the jurisdiction of another
+18 local government unless an ordinance has been adopted by the
+19 other local government declaring a need therefor;
+20 [Q.] R. "board" or "commission" means a board,
+commission, department, division, office, body or other unit of
+21
+a local government designated by the local government to 22
+perform functions authorized by the Metropolitan Redevelopment
+23
+Code as directed by the local government;
+24
+[R.] S. "public officer" means any person who is in
+25
+.233996.1
+- 9 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 charge of any department or branch of government of the local
+2 government; [and
+3 S.] T. "fair value" means the negotiated price or
+4 value of an asset or liability agreed upon by a local
+5 government and a private entity;
+6 U. "qualifying multifamily property" means a
+7 residential multifamily development with five or more dwelling
+8 units available for lease for periods of one month or more;
+9 provided that a minimum of fifteen percent of all of the
+10 dwelling units within the development are qualifying
+11 multifamily units and the average area median income of
+12 residents occupying qualifying multifamily units is not more
+13 than eighty-five percent of the area median income;
+14 V. "qualifying multifamily unit" means a
+15 residential dwelling unit that is available to lease or that is
+16 leased to a household whose income is between seventy percent
+17 and ninety-five percent of the applicable area median income
+18 and leased or available to lease to such a household at the
+19 rental amounts as shown on the current income and rent limits
+20 tables for the applicable area published by the United States
+21 department of housing and urban development; and
+22 W. "area median income" means the median income for
+23 the immediate geographic area in which the household is
+located, adjusted for family size, as determined by the United
+24
+States department of housing and urban development."
+25
+.233996.1
+- 10 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 SECTION 3. Section 3-60A-7 NMSA 1978 (being Laws 1979,
+2 Chapter 391, Section 7, as amended) is amended to read:
+3 "3-60A-7. FINDING OF NECESSITY BY LOCAL GOVERNMENT.--No
+4 local government shall exercise any of the powers conferred
+5 upon local governments by the Redevelopment Law until the local
+6 government has adopted a resolution finding that:
+7 A. one or more slum areas, [or] blighted areas or
+8 housing shortage areas exist in the local government's
+9 jurisdiction; and
+10 B. the rehabilitation, conservation, slum
+11 clearance, redevelopment, [or] development, construction or
+12 designation of qualifying multifamily units or a combination
+13 thereof, of and in such area is necessary in the interest of
+14 the public health, safety, morals or welfare of the residents
+15 of the local government's jurisdiction."
+16 SECTION 4. Section 3-60A-8 NMSA 1978 (being Laws 1979,
+17 Chapter 391, Section 8, as amended) is amended to read:
+18 "3-60A-8. DESIGNATION OF A METROPOLITAN REDEVELOPMENT
+19 AREA.--
+20 A. A local government shall not prepare a
+21 metropolitan redevelopment plan for an area unless the local
+22 government has, by resolution, determined the area to be a slum
+23 area, [or] a blighted area or a housing shortage area, or a
+24 combination thereof, and designated the area as appropriate for
+a metropolitan redevelopment project, which resolution may be
+25
+.233996.1
+- 11 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 adopted only after the local government has caused to be
+2 published in a newspaper of general circulation within the area
+3 of operation of the local government a notice that contains a
+4 general description of the area and the date, time and place
+5 where the local government shall hold a public hearing to
+6 consider the resolution and a notice that any interested party
+7 may appear and speak to the issue of the adoption of the
+8 resolution.
+9 B. A local government may declare any area or areas
+10 in its jurisdiction as a housing shortage area and metropolitan
+11 redevelopment area applicable only to qualifying multifamily
+12 properties. A local government may identify a housing shortage
+13 area by map, narrative description, reference to specific
+14 zoning categories or other method that reasonably identifies
+15 the designated area.
+16 [B.] C. Notice shall be published at least twice,
+17 and the last publication shall be not less than twenty days
+18 before the hearing. The owner of any real property affected by
+19 the resolution has the right to file in the district court of
+20 the county within which the local government is located, within
+21 twenty days after the adoption of the resolution, an action to
+22 set aside the determination made by the local government.
+23 [C.] D. A local government shall not acquire real
+property for a metropolitan redevelopment project unless the
+24
+local government has approved a metropolitan redevelopment plan
+25
+.233996.1
+- 12 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 relating to the metropolitan redevelopment area in which the
+2 real property is located."
+3 SECTION 5. Section 3-60A-9 NMSA 1978 (being Laws 1979,
+4 Chapter 391, Section 9, as amended) is amended to read:
+5 "3-60A-9. PREPARATION OF A METROPOLITAN REDEVELOPMENT
+6 PLAN.--
+7 A. When a local government has complied with the
+8 provisions of the Redevelopment Law concerning public hearing
+9 and designation of an area as a metropolitan redevelopment
+10 area, it may prepare or cause to be prepared a metropolitan
+11 redevelopment plan; however, prior to final consideration of
+12 the plan by the local government, the plan shall be the subject
+13 of at least one public hearing held by the local government or
+14 the local government's planning commission, at which time
+15 comments from the public as a whole can be gathered and
+16 considered by the local government in its preparation of the
+17 final plan. The local government may hold a public hearing for
+18 purposes of approval of the proposed plan, as provided in
+19 Subsection B of this section, only after the hearing required
+20 by this subsection.
+21 B. The local government shall hold a public hearing
+22 on a metropolitan redevelopment plan or substantial
+modification of an approved plan after public notice by
+23
+publication in a newspaper having a general circulation in the
+24
+area of operation of the local government. The notice shall
+25
+.233996.1
+- 13 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 describe the time, date, place and purpose of the hearing,
+2 shall generally identify the area covered by the plan and shall
+3 outline the general scope of the metropolitan redevelopment
+4 project under consideration. Prior to the public hearing on
+5 this matter, notice of the public hearing shall be mailed by
+6 first class mail to the owners of real property in the
+7 metropolitan redevelopment area. The mailing shall be to the
+8 owner's address as shown on the records of the county
+9 treasurer. If the notice by first class mail to the owner is
+10 returned undelivered, the local government shall attempt to
+11 discover the owner's most recent address and shall remail the
+12 notice by certified mail, return receipt requested, to the
+13 address.
+14 C. Following the public hearing, the local
+15 government may approve a metropolitan redevelopment plan if it
+16 finds that:
+17 (1) the proposed activities will aid in the
+18 elimination or prevention of slum or blight or the conditions
+19 that lead to the development of slum or blight; or the proposed
+20 plan will aid in the construction, rehabilitation or
+21 designation of qualifying multifamily properties or qualifying
+22 multifamily units within a housing shortage area;
+23 (2) a feasible method is included in the plan
+to provide individuals and families who occupy residential
+24
+dwellings in the metropolitan redevelopment area and who may be
+25
+.233996.1
+- 14 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 displaced by the proposed activities with decent, safe and
+2 sanitary dwelling accommodations within their means and without
+3 undue hardship to such individuals and families;
+4 (3) the plan conforms to the general plan for
+5 the local government; and
+6 (4) the plan affords maximum opportunity
+7 consistent with the needs of the community for the:
+8 (a) rehabilitation or redevelopment of
+9 the area by private enterprise or persons and the objectives of
+10 the plan justify the proposed activities as public purposes and
+11 needs; or
+12 (b) construction or designation of
+13 qualifying multifamily properties within the housing shortage
+14 area by private enterprise or persons and the objectives of the
+15 plan justify the proposed activities as public purposes and
+16 needs.
+17 D. A metropolitan redevelopment plan may be
+18 modified at any time; however, if the plan is modified after
+19 the lease or sale by the local government of real property in
+20 the project area, the modification shall be subject to any
+rights at law or in equity a lessee or purchaser or the
+21
+lessee's or purchaser's successors in interest may be entitled 22
+to assert. Any proposed modification that will substantially
+23
+change the plan as previously approved by the local government
+24
+shall be subject to the requirements of this section, including
+25
+.233996.1
+- 15 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 the requirement of a public hearing, before it may be
+2 approved."
+3 SECTION 6. Section 3-60A-10 NMSA 1978 (being Laws 1979,
+4 Chapter 391, Section 10, as amended) is amended to read:
+5 "3-60A-10. POWERS OF LOCAL GOVERNMENT.--A local
+6 government shall have all the powers, other than the power of
+7 eminent domain, necessary or convenient to carry out and
+8 effectuate the purposes and provisions of the Metropolitan
+9 Redevelopment Code, including the following powers:
+10 A. to undertake and carry out metropolitan
+11 redevelopment projects within its area of operation, including
+12 clearance and redevelopment, rehabilitation, conservation and
+13 development activities and programs; to make, enter into and
+14 execute contracts and other agreements and instruments
+15 necessary or convenient to the exercise of its powers under the
+16 Redevelopment Law; and to disseminate information regarding
+17 slum clearance, prevention of blight and the metropolitan
+18 redevelopment projects and areas;
+19 B. to provide, arrange or contract for the furnishing
+20 or repair by a public or private person or agency for services,
+21 privileges, works, streets, roads, public utilities, public
+22 buildings or other facilities for or in connection with a
+23 metropolitan redevelopment project; to, within its area of
+24 operation, install, acquire, construct, reconstruct, remodel,
+rehabilitate, maintain and operate streets, utilities, parks,
+25
+.233996.1
+- 16 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 buildings, playgrounds and public buildings, including parking
+2 facilities, transportation centers, public safety buildings and
+3 other public improvements or facilities or improvements for
+4 public purposes, as may be required by the local government,
+5 the state or a political subdivision of the state; to agree to
+6 conditions that it may deem reasonable and appropriate that are
+7 attached to federal financial assistance and imposed pursuant
+8 to federal law, including conditions relating to the
+9 determination of prevailing salaries or wages or compliance
+10 with federal and state labor standards, compliance with federal
+11 property acquisition policy and the provision of relocation
+12 assistance in accordance with federal law in the undertaking or
+13 carrying out of a metropolitan redevelopment project; and to
+14 include in a contract let in connection with the project
+15 provisions to fulfill these conditions as it may deem
+16 reasonable and appropriate; provided, however, that all
+17 purchases of personal property shall be in accordance with the
+18 Procurement Code;
+19 C. within its area of operation, to inspect any
+20 building or property in a metropolitan redevelopment area in
+order to make surveys, appraisals, soundings or test borings
+21
+and to obtain an order for this purpose from a court of 22
+competent jurisdiction in the event inspection is denied by the
+23
+property owner or occupant; to acquire, by purchase, lease,
+24
+option, gift, grant, bequest, devise or otherwise, any real
+25
+.233996.1
+- 17 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 property or personal property for its administrative or project
+2 purposes, together with any improvements thereon; to hold,
+3 improve, clear or prepare for redevelopment any such property;
+4 to mortgage, pledge, hypothecate or otherwise encumber or
+5 dispose of any real property; to insure or provide for the
+6 insurance of real or personal property or operations of the
+7 local government against risks or hazards, including the power
+8 to pay premiums on that insurance; and to enter into contracts
+9 necessary to effectuate the purposes of the Metropolitan
+10 Redevelopment Code;
+11 D. to invest metropolitan redevelopment project funds
+12 held in reserve, sinking funds or other project funds that are
+13 not required for immediate disbursement in property or
+14 securities in which local governments may legally invest funds
+15 subject to their control; to redeem bonds as have been issued
+16 pursuant to the Metropolitan Redevelopment Code at the
+17 redemption price established in the bonds or to purchase the
+18 bonds at less than redemption price. Bonds so redeemed or
+19 purchased shall be canceled;
+20 E. to borrow or lend money subject to those
+21 procedures and limitations as may be provided in the
+22 constitution of New Mexico or statutes and to apply for and
+23 accept advances, loans, grants, contributions and other forms
+of financial assistance from the federal government, the state,
+24
+the county or other public body or from sources, public or
+25
+.233996.1
+- 18 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 private, for the purposes of the Metropolitan Redevelopment
+2 Code; and to give security as may be required and subject to
+3 the provisions and limitations of general law except as may
+4 otherwise be provided by the Redevelopment Law and to enter
+5 into and carry out contracts in connection with that law. A
+6 local government may include in a contract for financial
+7 assistance with the federal government for a metropolitan
+8 redevelopment project conditions imposed pursuant to federal
+9 law that the local government may deem reasonable or
+10 appropriate and that are not inconsistent with the purposes of
+11 the Metropolitan Redevelopment Code;
+12 F. within its area of operation, to make plans
+13 necessary for the carrying out of the purposes of the
+14 Metropolitan Redevelopment Code and to contract with any
+15 person, public or private, in making and carrying out such
+16 plans and to adopt or approve, modify and amend the plans. The
+17 plans may include without limitation:
+18 (1) a general plan for redevelopment of the area
+19 as a whole;
+20 (2) redevelopment plans for specific areas;
+(3) plans for programs of voluntary or assisted
+21
+repair and rehabilitation of buildings and improvements; 22
+(4) plans for the enforcement of state and local
+23
+laws, codes and regulations relating to the use of land and the
+24
+use and occupancy of buildings and improvements and to the
+25
+.233996.1
+- 19 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 compulsory repair, rehabilitation, demolition or removal of
+2 buildings and improvements; and
+3 (5) appraisals, title searches, surveys, studies
+4 and other preliminary plans and work necessary to prepare for
+5 the undertaking of metropolitan redevelopment projects;
+6 G. to develop, test and report methods and techniques
+7 and carry out demonstrations and other activities for the
+8 prevention and elimination of slums and blight and to pay for,
+9 accept and use grants of funds from the federal government for
+10 those purposes;
+11 H. to prepare plans for the relocation of families
+12 displaced from a metropolitan redevelopment area to the extent
+13 essential for acquiring possession of and clearing the area or
+14 its parts or permit the carrying out of the metropolitan
+15 redevelopment project;
+16 I. to appropriate under existing authority the funds
+17 and make expenditures necessary to carry out the purposes of
+18 the Metropolitan Redevelopment Code and under existing
+19 authority to levy taxes and assessments for such purposes; to
+20 close, vacate, plan or replan streets, roads, sidewalks, ways
+21 or other places; in accordance with applicable law or
+22 ordinances, to plan or replan, zone or rezone any part within
+23 the jurisdiction of the local government or make exceptions
+from building regulations; and to enter into agreements with a
+24
+metropolitan redevelopment agency vested with metropolitan
+25
+.233996.1
+- 20 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 redevelopment project powers, which agreements may extend over
+2 any period, notwithstanding any provision or rule of law to the
+3 contrary, respecting action to be taken by the local government
+4 pursuant to the powers granted by the Redevelopment Law;
+5 J. within its area of operation, to organize,
+6 coordinate and direct the administration of the provisions of
+7 the Redevelopment Law as they apply to the local government in
+8 order that the objective of remedying slum areas, [and]
+9 blighted areas and housing shortage areas and preventing the
+10 causes of those areas within the jurisdiction of the local
+11 government may be most effectively promoted and achieved and to
+12 establish any new office of the local government or to
+13 reorganize existing offices as necessary;
+14 K. to acquire real property that is appropriate for
+15 the preservation or restoration of historic sites; the
+16 beautification of urban land; the conservation of open spaces,
+17 natural resources and scenic areas; or the provision of
+18 recreational opportunities; or that is to be used for public
+19 purposes;
+20 L. to engage in the following activities as part of a
+metropolitan redevelopment project:
+21
+(1) acquisition, construction, reconstruction or 22
+installation of public works, facilities and site or other
+23
+improvements, including neighborhood facilities, senior citizen
+24
+centers, historic properties, utilities, streets, street
+25
+.233996.1
+- 21 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 lights, water and sewer facilities, including connections for
+2 residential users, foundations and platforms for air-rights
+3 sites, pedestrian malls and walkways, parks, playgrounds and
+4 other recreation facilities, flood and drainage facilities,
+5 parking facilities, solid waste disposal facilities and fire
+6 protection or health facilities that serve designated areas;
+7 (2) special projects directed to the removal of
+8 materials and architectural barriers that restrict the mobility
+9 and accessibility of elderly and disabled persons;
+10 (3) provision of public services in the
+11 metropolitan redevelopment area that are not otherwise
+12 available in the area, including the provisions of public
+13 services directed to the employment, economic development,
+14 crime prevention, child care, health, drug abuse, welfare or
+15 recreation needs of the people who reside in the metropolitan
+16 redevelopment area;
+17 (4) payment of the nonfederal share of any
+18 federal grant-in-aid program to the local government that will
+19 be a part of a metropolitan redevelopment project;
+20 (5) if federal funds are used in the project, to
+21 provide for payment of relocation costs and assistance to
+22 individuals, families, businesses, organizations and farm
+23 operations displaced as a direct result of a metropolitan
+redevelopment project in accordance with applicable law
+24
+governing such payment;
+25
+.233996.1
+- 22 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 (6) payment of reasonable administrative costs
+2 and carrying charges related to the planning and execution of
+3 plans and projects;
+4 (7) economic and marketing studies to determine
+5 the economic condition of an area and to determine the
+6 viability of certain economic ventures proposed for the
+7 metropolitan redevelopment area;
+8 (8) issuance of bonds, grants or loans as
+9 authorized by the Metropolitan Redevelopment Code in accordance
+10 with the requirements of that code; and
+11 (9) grants to nonprofit corporations, local
+12 development corporations or entities organized under Section
+13 301 (d) of the federal Small Business Investment Act of 1958
+14 for the purposes of carrying out the provisions of the
+15 Metropolitan Redevelopment Code;
+16 M. in a metropolitan redevelopment project or
+17 rehabilitation or conservation undertaking or activity, to
+18 exercise the following powers in one or more metropolitan
+19 redevelopment areas to include the increase in qualifying
+20 multifamily properties and the elimination and prevention of
+the development or spread of slums or blight and may involve
+21
+slum clearance, development and redevelopment in that area or 22
+rehabilitation or conservation in that area or any combination
+23
+or part of those areas in accordance with a metropolitan
+24
+redevelopment plan and for undertakings or activities of a
+25
+.233996.1
+- 23 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 local government in a metropolitan redevelopment area to
+2 increase qualifying multifamily properties or to eliminate the
+3 conditions that caused an area to be [so] designated as a slum
+4 or blighted area and may include the following:
+5 (1) acquisition of real property within the
+6 metropolitan redevelopment area pursuant to any powers and for
+7 purposes enumerated in the Metropolitan Redevelopment Code;
+8 (2) clearing the land, grading the land and
+9 replatting the land in accordance with the metropolitan
+10 redevelopment plan; installation, construction or
+11 reconstruction of roads, streets, gutters, sidewalks, storm
+12 drainage facilities, water lines or water supply installations,
+13 sewer lines and sewage disposal installations, steam, gas and
+14 electric lines and installations, airport facilities and
+15 construction of any other needed public facilities or buildings
+16 whether on or off the site if deemed necessary by the local
+17 government to prepare the land in the metropolitan
+18 redevelopment area for residential, commercial, industrial and
+19 public use in accordance with the metropolitan redevelopment
+20 plan; and
+21 (3) making the land available for development by
+22 private enterprise or public agencies, including sale, initial
+23 leasing, leasing or retention by the local government itself,
+at its fair market value for uses in accordance with the
+24
+metropolitan redevelopment plan for the area;
+25
+.233996.1
+- 24 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 N. the local government is empowered in a
+2 metropolitan redevelopment area to undertake qualifying
+3 multifamily property development and slum clearance and
+4 redevelopment that includes:
+5 (1) acquisition of a qualifying multifamily
+6 property or slum area or a blighted area or portion thereof;
+7 (2) demolition and removal of buildings and
+8 improvements;
+9 (3) installation, construction, reconstruction,
+10 maintenance and operation of streets, utilities, storm drainage
+11 facilities, curbs and gutters, parks, playgrounds, single-
+12 family or multifamily dwelling units, buildings, public
+13 buildings, including parking facilities, transportation
+14 centers, safety buildings and other improvements, necessary for
+15 carrying out in the area the provisions of an approved plan for
+16 the area; and
+17 (4) making the real property available for
+18 development or redevelopment by private enterprise or public
+19 agencies, including sale, leasing or retention by the local
+20 government itself, at its fair value for uses in accordance
+with the metropolitan redevelopment area plan; and
+21
+O. to engage in rehabilitation or conservation that 22
+includes the restoration and renewal of a qualifying
+23
+multifamily property or slum or blighted area or portion
+24
+thereof in accordance with any approved plan, by:
+25
+.233996.1
+- 25 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 (1) carrying out plans for a program of
+2 voluntary or compulsory construction or repair and
+3 rehabilitation of buildings or other improvements;
+4 (2) acquisition of real property and demolition
+5 or removal of buildings and improvements thereon where
+6 necessary to eliminate unhealthful, unsanitary or unsafe
+7 conditions, lessen or increase density, eliminate obsolete or
+8 other uses detrimental to the public welfare or to otherwise
+9 remove or prevent the spread of blight or deterioration or to
+10 provide land for needed public facilities;
+11 (3) installation, construction or reconstruction
+12 of streets, utilities, parks, playgrounds and other
+13 improvements necessary for carrying out in the area the
+14 provisions of the Metropolitan Redevelopment Code;
+15 (4) the disposition of any property acquired in
+16 the area, including sale, leasing or retention by the local
+17 government itself, for uses in accordance with an approved
+18 plan;
+19 (5) acquisition of real property in the area
+20 that, under a plan, is to be constructed, repaired or
+21 rehabilitated;
+22 (6) construct, repair or rehabilitation of
+23 structures within the area;
+(7) power to resell developed, repaired or
+24
+rehabilitated property;
+25
+.233996.1
+- 26 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 (8) acquisition, without regard to any
+2 requirement that the area be a housing shortage area, a slum or
+3 a blighted area, of air-rights in an area consisting
+4 principally of land on which is located a highway, railway,
+5 bridge or subway tracks or tunnel entrance or other similar
+6 facilities that have a blighting influence on the surrounding
+7 area and over which air-rights sites are to be developed for
+8 the construction or designation of qualifying multifamily
+9 property or the elimination of such blighting influences; and
+10 (9) making loans or grants or authorizing the
+11 use of the proceeds of bonds issued pursuant to the
+12 Metropolitan Redevelopment Code for the purpose of
+13 constructing, repairing, remodeling or modifying a building or
+14 buildings located in the metropolitan redevelopment area. Such
+15 rehabilitation or conservation with use of funds expended by
+16 authority of the Metropolitan Redevelopment Code or by
+17 metropolitan revenue bonds authorized by that code shall be
+18 authorized after approval by the local government and after it
+19 has been determined that the expenditure is in accordance with
+20 the metropolitan redevelopment plan for that area."
+21 SECTION 7. Section 3-60A-13.1 NMSA 1978 (being Laws 1985,
+22 Chapter 225, Section 2, as amended) is amended to read:
+"3-60A-13.1. PAYMENTS IN LIEU OF PROPERTY TAXES AND
+23
+ASSESSMENTS.--
+24
+A. If interests in project property are exempt from
+25
+.233996.1
+- 27 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 property taxation and assessments under Subsection B of Section
+2 3-60A-13 NMSA 1978 or Section 7-36-3.1 NMSA 1978, then during
+3 the period extending from the date of acquisition of the
+4 property by the local government through December 31 of the
+5 year in which the seventh anniversary of that acquisition date
+6 occurs, except for qualifying multifamily property, for which
+7 the period may be extended up to the twentieth anniversary if
+8 set forth in the applicable metropolitan redevelopment plan
+9 adopted by the local government, any lessee of the project
+10 property or owner of a substantial beneficial interest in the
+11 project property, in whose ownership the property would not be
+12 exempt from property taxation except for the exemption granted
+13 under Section 7-36-3.1 NMSA 1978, shall pay to the county
+14 treasurer annually, at the same time property tax payments are
+15 due under the Property Tax Code, an amount equal to the sum of:
+16 (1) general property taxes that would have been
+17 imposed under Subsection B of Section 7-37-7 NMSA 1978 had it
+18 not been exempt and had it been valued at the valuation for
+19 property taxation purposes that existed in the year immediately
+20 preceding the year of acquisition by the local government;
+21 (2) amounts that would have been imposed under
+22 Subsection C of Section 7-37-7 NMSA 1978 on the project
+23 property had it not been exempt and had it been valued at the
+valuation for property taxation purposes that existed in the
+24
+year immediately preceding the year of acquisition by the local
+25
+.233996.1
+- 28 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 government; and
+2 (3) amounts that would have been imposed as
+3 benefit assessments on the project property had it not been
+4 exempt and had it been valued at the valuation for property
+5 taxation purposes that existed in the year immediately
+6 preceding the year of acquisition by the local government if
+7 those benefit assessments are authorized by law and are
+8 expressed in mills per dollar or dollars per thousand dollars
+9 of net taxable value of property, assessed value of property or
+10 similar terms.
+11 B. The county treasurer shall distribute all amounts
+12 collected under Subsection A of this section in the same manner
+13 as the amounts would have been distributed if they had been
+14 collected as taxes or assessments on nonexempt property.
+15 C. The provisions of this section shall apply only to
+16 project property acquired by a local government under the
+17 provisions of the Metropolitan Redevelopment Code on or after
+18 January 1, 1986."
+19 SECTION 8. Section 3-60A-15 NMSA 1978 (being Laws 1979,
+20 Chapter 391, Section 15, as amended) is amended to read:
+21 "3-60A-15. EXERCISE OF POWERS IN CARRYING OUT PROJECTS.--
+22 A. A local government may directly exercise its
+metropolitan redevelopment project powers or it may, by
+23
+ordinance if it determines such action to be in the public
+24
+interest, elect to delegate the exercise of such powers to the
+25
+.233996.1
+- 29 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 metropolitan redevelopment agency created pursuant to the
+2 Redevelopment Law. If the local government so determines, the
+3 agency shall be vested with all of the powers in the same
+4 manner as though all the powers were conferred on the agency or
+5 authority instead of the local government.
+6 B. As used in this section, the term "redevelopment
+7 project powers" includes any rights, powers, functions and
+8 duties of a local government authorized by the Redevelopment
+9 Law except the following, which are reserved to the local
+10 government, the power to:
+11 (1) declare an area to be a housing shortage
+12 area, a slum or a blighted area, or combination thereof, and to
+13 designate the area as appropriate for a redevelopment project;
+14 (2) approve or amend redevelopment plans;
+15 (3) approve a general plan for the local
+16 government as a whole;
+17 (4) make findings of necessity prior to
+18 preparation of a metropolitan redevelopment plan as provided in
+19 the Redevelopment Law and the findings and determinations
+20 required prior to approval of a metropolitan redevelopment plan
+21 or project as provided in the Redevelopment Law;
+22 (5) issue general obligation bonds and revenue
+23 bonds as authorized by law;
+(6) issue redevelopment bonds; and
+24
+(7) appropriate funds and levy taxes and
+25
+.233996.1
+- 30 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 assessments."
+2 SECTION 9. Section 7-36-3.1 NMSA 1978 (being Laws 1979,
+3 Chapter 56, Section 2, as amended) is amended to read:
+4 "7-36-3.1. METROPOLITAN REDEVELOPMENT PROPERTY--TAX
+5 STATUS OF LESSEE'S INTERESTS.--
+6 A. Property interests of a lessee in project property
+7 held under a lease with respect to a project authorized by the
+8 Metropolitan Redevelopment Code and acquired or held by a
+9 municipality prior to January 1, 1986 under the provisions of
+10 that code are exempt from property taxation for as long as
+11 there is an outstanding bonded indebtedness, but in any event
+12 for a period not to exceed ten years from the date of execution
+13 of the first lease of the project by the municipality.
+14 B. Property interests of a lessee of or an owner of a
+15 substantial beneficial interest in project property acquired or
+16 held by a municipality on or after January 1, 1986 with respect
+17 to a project authorized by the Metropolitan Redevelopment Code
+18 are exempt from property taxation for a period extending from
+19 the date of acquisition of the project property by the
+20 municipality through December 31 of the year in which the
+21 seventh anniversary of that acquisition date occurs.
+22 C. Property interests of a lessee of or an owner of a
+substantial beneficial interest in a qualifying multifamily
+23
+property acquired or held by a municipality or county on or
+24
+after May 20, 2026 with respect to a project to develop
+25
+.233996.1
+- 31 -
+
+wen
+=
+lairetam
+derocsrednu
+eteled
+=
+]lairetam
+detekcarb[
+S__C/SB 283
+1 qualifying multifamily property authorized by the Metropolitan
+2 Redevelopment Code are exempt from property taxation for a
+3 period extending from the date of acquisition of the qualifying
+4 multifamily property by the municipality or county through
+5 December 31 of not less than the seventh anniversary or more
+6 than the twentieth anniversary of the year in which the
+7 acquisition of the qualifying multifamily property occurs."
+8 - 32 -
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+.233996.1

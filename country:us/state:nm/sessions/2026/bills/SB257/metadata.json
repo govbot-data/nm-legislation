@@ -140,6 +140,7 @@
     "text_extraction_unavailable": {
       "reason": "download_failed",
       "checked_at": "2026-08-21T13:21:48.581456Z"
-    }
+    },
+    "text_extraction_latest_update": "2026-09-05T14:47:40.918078Z"
   }
 }

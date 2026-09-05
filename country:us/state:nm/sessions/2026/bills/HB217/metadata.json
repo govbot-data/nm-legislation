@@ -113,6 +113,7 @@
     "text_extraction_unavailable": {
       "reason": "download_failed",
       "checked_at": "2026-08-21T13:39:08.072778Z"
-    }
+    },
+    "text_extraction_latest_update": "2026-09-05T14:44:13.521907Z"
   }
 }
